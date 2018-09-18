@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/08/06 01:28:10.000.590,D:\ESCRITORIO\parqueadero\UPrincipal.h=D:\DOCUMENTOS\RAD Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2016/08/06 01:28:10.000.590,D:\ESCRITORIO\parqueadero\UPrincipal.dfm=D:\DOCUMENTOS\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2016/08/06 01:28:10.000.590,D:\ESCRITORIO\parqueadero\UPrincipal.cpp=D:\DOCUMENTOS\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2016/08/06 01:28:14.000.666,D:\ESCRITORIO\parqueadero\Parqueadero.cbproj=D:\DOCUMENTOS\RAD Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2016/08/06 02:06:50.000.233,=D:\DOCUMENTOS\RAD Studio\Projects\Project1.res</Transaction>
+    <Transaction>2016/08/06 02:06:50.000.366,=D:\DOCUMENTOS\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2016/08/06 21:30:20.000.907,=C:\Users\Carlos\Desktop\parqueadero\parqueadero\Unit2.cpp</Transaction>
+    <Transaction>2016/08/06 21:46:29.000.255,C:\Users\Carlos\Desktop\parqueadero\parqueadero\Unit2.cpp=C:\Users\Carlos\Desktop\parqueadero\parqueadero\UTerminos.cpp</Transaction>
+    <Transaction>2016/08/06 21:46:29.000.255,C:\Users\Carlos\Desktop\parqueadero\parqueadero\Unit2.h=C:\Users\Carlos\Desktop\parqueadero\parqueadero\UTerminos.h</Transaction>
+    <Transaction>2016/08/06 21:46:29.000.255,C:\Users\Carlos\Desktop\parqueadero\parqueadero\Unit2.dfm=C:\Users\Carlos\Desktop\parqueadero\parqueadero\UTerminos.dfm</Transaction>
+    <Transaction>2016/08/06 22:24:46.000.686,C:\Users\Carlos\Desktop\parqueadero\parqueadero\UPrincipal.h=C:\Users\Carlos\Desktop\parqueadero\parqueadero\UAsistente.h</Transaction>
+    <Transaction>2016/08/06 22:24:46.000.686,C:\Users\Carlos\Desktop\parqueadero\parqueadero\UPrincipal.cpp=C:\Users\Carlos\Desktop\parqueadero\parqueadero\UAsistente.cpp</Transaction>
+    <Transaction>2016/08/06 22:24:46.000.686,C:\Users\Carlos\Desktop\parqueadero\parqueadero\UPrincipal.dfm=C:\Users\Carlos\Desktop\parqueadero\parqueadero\UAsistente.dfm</Transaction>
+    <Transaction>2016/08/06 22:35:23.000.543,=C:\Users\Carlos\Desktop\parqueadero\parqueadero\Unit2.cpp</Transaction>
+    <Transaction>2016/08/06 22:47:56.000.190,C:\Users\Carlos\Desktop\parqueadero\parqueadero\Unit2.cpp=C:\Users\Carlos\Desktop\parqueadero\parqueadero\UEntrar.cpp</Transaction>
+    <Transaction>2016/08/06 22:47:56.000.190,C:\Users\Carlos\Desktop\parqueadero\parqueadero\Unit2.h=C:\Users\Carlos\Desktop\parqueadero\parqueadero\UEntrar.h</Transaction>
+    <Transaction>2016/08/06 22:47:56.000.190,C:\Users\Carlos\Desktop\parqueadero\parqueadero\Unit2.dfm=C:\Users\Carlos\Desktop\parqueadero\parqueadero\UEntrar.dfm</Transaction>
+    <Transaction>2016/08/07 19:55:28.000.043,=C:\Users\Carlos\Desktop\parqueadero\parqueadero\Unit1.cpp</Transaction>
+    <Transaction>2016/08/07 20:06:04.000.880,C:\Users\Carlos\Desktop\parqueadero\parqueadero\UPrincipal.h=C:\Users\Carlos\Desktop\parqueadero\parqueadero\Unit1.h</Transaction>
+    <Transaction>2016/08/07 20:06:04.000.880,C:\Users\Carlos\Desktop\parqueadero\parqueadero\UPrincipal.cpp=C:\Users\Carlos\Desktop\parqueadero\parqueadero\Unit1.cpp</Transaction>
+    <Transaction>2016/08/07 20:06:04.000.880,C:\Users\Carlos\Desktop\parqueadero\parqueadero\UPrincipal.dfm=C:\Users\Carlos\Desktop\parqueadero\parqueadero\Unit1.dfm</Transaction>
+    <Transaction>2016/08/08 21:35:58.000.220,=C:\Users\Carlos\Desktop\parqueadero\parqueadero\md5.hpp</Transaction>
+    <Transaction>2016/08/08 23:53:11.000.716,=C:\Users\Carlos\Desktop\parqueadero\parqueadero\Unit1.cpp</Transaction>
+    <Transaction>2016/08/09 00:38:40.000.938,C:\Users\Carlos\Desktop\parqueadero\parqueadero\Unit1.dfm=C:\Users\Carlos\Desktop\parqueadero\parqueadero\UAutomoviles.dfm</Transaction>
+    <Transaction>2016/08/09 00:38:40.000.938,C:\Users\Carlos\Desktop\parqueadero\parqueadero\Unit1.h=C:\Users\Carlos\Desktop\parqueadero\parqueadero\UAutomoviles.h</Transaction>
+    <Transaction>2016/08/09 00:38:40.000.938,C:\Users\Carlos\Desktop\parqueadero\parqueadero\Unit1.cpp=C:\Users\Carlos\Desktop\parqueadero\parqueadero\UAutomoviles.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
